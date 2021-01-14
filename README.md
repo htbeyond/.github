@@ -7,3 +7,5 @@ github 각종 template 파일들이 들어가는 저장소입니다.
 pull request template
 
 issue template
+
+또 뭘 넣을까요? 
