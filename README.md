@@ -9,3 +9,5 @@ pull request template
 issue template
 
 또 뭘 넣을까요? 
+
+~~모르겠다...~~
