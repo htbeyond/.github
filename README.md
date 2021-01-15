@@ -8,4 +8,3 @@ pull request template
 
 issue template
 
-기타 등등
