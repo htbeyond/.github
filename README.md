@@ -8,3 +8,4 @@ pull request template
 
 issue template
 
+커밋을 해보겠습니다.
