@@ -10,4 +10,4 @@ issue template
 
 커밋을 해보겠습니다.
 
-test 입니다.
+test 입니다.(재학)
